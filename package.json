@@ -1,0 +1,25 @@
+{
+  "name": "tasks-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aironside7/Tasks-Api.git"
+  },
+  "author": "ani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aironside7/Tasks-Api/issues"
+  },
+  "homepage": "https://github.com/aironside7/Tasks-Api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
